@@ -1,13 +1,64 @@
 body {
-  background-color: pink
+  background-color: #B0B0B0;
+}
+ img {
+   display: block;
+   margin:  auto;
+   padding-top: 20px;
+   padding-bottom: 20px;
+
+ }
+
+.type {
+margin-bottom: 20px;
+text-align: center;
 }
 
-.skully {
+.color {
+padding-bottom: 50px;
+text-align: center;
 
+}
 
+.container-fluid {
+  padding-bottom: 40px;
+}
 
-background-image: url(../img/graybars.svg);
+.intro p {
+padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #333333;
+  color: white;
+  text-align: center;
+}
+
+.context p {
+  padding-bottom: 50px;
+  background-color: #C7C7C7;
+  text-align: center;
+
+}
+
+.process p {
+  padding-bottom: 50px;
+  background-color: #333333;
+  color: white;
+  text-align: center;
+
 
 
 }
-/* blog: */
+
+.solution p {
+padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #C7C7C7;
+  text-align: center;
+
+
+}
+
+.navDesign {
+  text-align: center;
+
+}
