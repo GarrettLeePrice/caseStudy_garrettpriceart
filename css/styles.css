@@ -1,64 +1,32 @@
 body {
-  background-color: #B0B0B0;
-}
- img {
-   display: block;
-   margin:  auto;
-   padding-top: 20px;
-   padding-bottom: 20px;
-
- }
-
-.type {
-margin-bottom: 20px;
-text-align: center;
+  background-image: url(../img/backGround.png);
+  background-repeat: no-repeat;
 }
 
-.color {
-padding-bottom: 50px;
-text-align: center;
-
+img {
+  display: block;
+  margin: auto;
+  padding-bottom: 20px;
 }
 
-.container-fluid {
+p {
+  text-align: center;
+  font-family: 'Open Sans',sans-serif;
+  font-size: 12pt;
+  color: #7b7b7b;
+}
+
+h3 {
+  font-family: 'Open Sans',sans-serif;
+  color: #333333;
+  text-align: center;
+}
+
+
+.headerImage {
+  padding-top: 60px;
+}
+
+.intro {
   padding-bottom: 40px;
-}
-
-.intro p {
-padding-top: 50px;
-  padding-bottom: 50px;
-  background-color: #333333;
-  color: white;
-  text-align: center;
-}
-
-.context p {
-  padding-bottom: 50px;
-  background-color: #C7C7C7;
-  text-align: center;
-
-}
-
-.process p {
-  padding-bottom: 50px;
-  background-color: #333333;
-  color: white;
-  text-align: center;
-
-
-
-}
-
-.solution p {
-padding-top: 50px;
-  padding-bottom: 50px;
-  background-color: #C7C7C7;
-  text-align: center;
-
-
-}
-
-.navDesign {
-  text-align: center;
-
 }
