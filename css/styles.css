@@ -12,16 +12,16 @@ img {
 p {
   text-align: center;
   font-family: 'Open Sans',sans-serif;
-  font-size: 12pt;
+  font-size: 14pt;
   color: #7b7b7b;
 }
 
 h3 {
   font-family: 'Open Sans',sans-serif;
-  color: #333333;
+  color: #333;
   text-align: center;
+  line-height: normal;
 }
-
 
 .headerImage {
   padding-top: 60px;
